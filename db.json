@@ -1,3 +1,7 @@
 {
-  "data":"mohamed"
+  "posts":[
+    {"name":"mohamed","id":"1"},
+    {"name":"mohamed","id":"2"},
+    {"name":"mohamed","id":"3"},
+  ]
 }
